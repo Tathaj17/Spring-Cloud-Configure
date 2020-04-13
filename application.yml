@@ -1,0 +1,12 @@
+
+my:
+        greeting: Hello World
+        list:
+                values: One, Two, Three
+
+db:
+        connection: connection-String
+        host: 127.0.0.1
+        port: 1200
+
+                
